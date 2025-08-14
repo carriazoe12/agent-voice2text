@@ -44,7 +44,7 @@ Este proyecto implementa una solución completa para el procesamiento y análisi
 1. **Clonar el repositorio**
 ```bash
 git clone https://github.com/carriazoe12/agent-voice2text.git
-cd Indratask
+cd agent-voice2text
 ```
 
 2. **Crear entorno virtual**
