@@ -73,7 +73,7 @@ Para utilizar la funcionalidad de diarización de hablantes, necesitarás config
 1. **Crear cuenta en [Hugging Face](https://huggingface.co)**
 2. **Obtener acceso al modelo de diarización:**
    - Visita [pyannote/segmentation](https://huggingface.co/pyannote/segmentation)
-   - Haz clic en "Accept" para aceptar los términos de uso
+   - Haz clic en "Agree and access repository" para aceptar los términos de uso
    - Esto es necesario para acceder a los modelos de diarización
 3. **Generar token de acceso:**
    - Ve a [Settings → Access Tokens](https://huggingface.co/settings/tokens)
